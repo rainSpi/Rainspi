@@ -1,6 +1,8 @@
-## Benvenuti nel mio sito 👋
+## Il mio mondo tra UX, emozioni e comunicazione 👋
 
-<!--
+<!-- Ciao sono Lorraine Spitaleri, una UX/UI designer con una formazione in Scienze della Comunicazione e una passione per il mondo digitale.
+In questo spazio racconto chi sono attraverso i miei progetti, la mia esttetica e la mia visione del design: accessibile, umano e significativo.
+Benvenut* nel mio portfolio, dove ogni interfaccia è un invito a connettersi.
 **rainSpi/rainSpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
